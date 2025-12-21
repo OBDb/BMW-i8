@@ -1,0 +1,5 @@
+command_id: 6F1.607.22DD68|e=07,fc=1
+test_cases:
+- expected_values:
+    BMW_HVBAT_V: 375.41
+  response: 607F10562DD6892A5
