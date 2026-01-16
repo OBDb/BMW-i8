@@ -1,0 +1,12 @@
+command_id: 6F1.660.22D111|e=60,fc=1
+test_cases:
+- expected_values:
+    BMW_AUX_PWR: 0.83
+    BMW_RANGE_E_CUR: 10
+    BMW_RANGE_E_MAX: 25
+    BMW_RANGE_E_USE: 15.183
+    BMW_RANGE_F_CUR: 325
+  response: |-
+    660F1100F62D1110064
+    660F12100FA0CB2FFFF
+    660F1223B4F0053FFFF

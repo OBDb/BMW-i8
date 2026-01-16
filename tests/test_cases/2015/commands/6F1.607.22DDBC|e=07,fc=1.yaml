@@ -1,0 +1,16 @@
+command_id: 6F1.607.22DDBC|e=07,fc=1
+test_cases:
+- expected_values:
+    BMW_HVBAT_SOC: 54.1
+    BMW_HVBAT_SOC_MAX: 92.6
+    BMW_HVBAT_SOC_MIN: 24
+  response: |-
+    607F1100962DDBC021D
+    607F121039E00F0FFFF
+- expected_values:
+    BMW_HVBAT_SOC: 54.2
+    BMW_HVBAT_SOC_MAX: 92.6
+    BMW_HVBAT_SOC_MIN: 24
+  response: |-
+    607F1100962DDBC021E
+    607F121039E00F0FFFF
