@@ -7,8 +7,8 @@ test_cases:
     BMW_HVBAT_V: 355.82
   response: 607F10562DD688AFE
 - expected_values:
-    BMW_HVBAT_V: 358.8
-  response: 607F10562DD688C28
+    BMW_HVBAT_V: 355.96
+  response: 607F10562DD688B0C
 - expected_values:
     BMW_HVBAT_V: 387.08
   response: 607F10562DD689734
