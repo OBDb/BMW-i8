@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     BMW_GEAR_SHIFT: NEUTRAL
   response: 618F10462DA2E02
+- expected_values:
+    BMW_GEAR_SHIFT: DRIVE
+  response: 618F10462DA2E03
