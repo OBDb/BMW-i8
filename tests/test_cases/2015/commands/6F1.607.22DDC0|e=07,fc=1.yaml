@@ -1,6 +1,12 @@
 command_id: 6F1.607.22DDC0|e=07,fc=1
 test_cases:
 - expected_values:
+    BMW_HVBAT_CT_MAX: 12.99
+    BMW_HVBAT_CT_MIN: 11.01
+  response: |-
+    607F1100962DDC0044D
+    607F121051304C8FFFF
+- expected_values:
     BMW_HVBAT_CT_MAX: 12
     BMW_HVBAT_CT_MIN: 11.95
   response: |-
