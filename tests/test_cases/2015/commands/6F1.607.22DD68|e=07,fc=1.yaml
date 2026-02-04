@@ -4,11 +4,11 @@ test_cases:
     BMW_HVBAT_V: 342.85
   response: 607F10562DD6885ED
 - expected_values:
-    BMW_HVBAT_V: 343.1
-  response: 607F10562DD688606
-- expected_values:
     BMW_HVBAT_V: 360.95
   response: 607F10562DD688CFF
 - expected_values:
-    BMW_HVBAT_V: 387.08
-  response: 607F10562DD689734
+    BMW_HVBAT_V: 386.56
+  response: 607F10562DD689700
+- expected_values:
+    BMW_HVBAT_V: 389.81
+  response: 607F10562DD689845
