@@ -1,0 +1,17 @@
+command_id: 6F1.612.22558E|e=12,fc=1
+test_cases:
+- expected_values:
+    BMW_ODO_DME: 35711
+  response: |-
+    612F1100762558E0000
+    612F1218B7FFFFFFFFF
+- expected_values:
+    BMW_ODO_DME: 35723
+  response: |-
+    612F1100762558E0000
+    612F1218B8BFFFFFFFF
+- expected_values:
+    BMW_ODO_DME: 35814
+  response: |-
+    612F1100762558E0000
+    612F1218BE6FFFFFFFF

@@ -1,0 +1,79 @@
+command_id: 6F1.660.22D129|e=60,fc=1
+test_cases:
+- expected_values:
+    BMW_BC_AVG_CONS: 11.4
+    BMW_BC_AVG_SPD: 48.5
+    BMW_BC_RANGE: 33
+  response: |-
+    660F1100B62D1290072
+    660F12112F2FFFD014A
+- expected_values:
+    BMW_BC_AVG_CONS: 11.4
+    BMW_BC_AVG_SPD: 48.6
+    BMW_BC_RANGE: 32
+  response: |-
+    660F1100B62D1290072
+    660F12112FC00000140
+- expected_values:
+    BMW_BC_AVG_CONS: 11.5
+    BMW_BC_AVG_SPD: 48.5
+    BMW_BC_RANGE: 27
+  response: |-
+    660F1100B62D1290073
+    660F12112F20001010E
+- expected_values:
+    BMW_BC_AVG_CONS: 11.6
+    BMW_BC_AVG_SPD: 48.6
+    BMW_BC_RANGE: 46
+  response: |-
+    660F1100B62D1290074
+    660F12112FC004301CC
+- expected_values:
+    BMW_BC_AVG_CONS: 11.6
+    BMW_BC_AVG_SPD: 48.8
+    BMW_BC_RANGE: 17
+  response: |-
+    660F1100B62D1290074
+    660F1211310009D00AA
+- expected_values:
+    BMW_BC_AVG_CONS: 11.6
+    BMW_BC_AVG_SPD: 50.4
+    BMW_BC_RANGE: 30
+  response: |-
+    660F1100B62D1290074
+    660F12113B0FFFD012C
+- expected_values:
+    BMW_BC_AVG_CONS: 11.8
+    BMW_BC_AVG_SPD: 48.9
+    BMW_BC_RANGE: 23
+  response: |-
+    660F1100B62D1290076
+    660F121131A01FE00E6
+- expected_values:
+    BMW_BC_AVG_CONS: 12
+    BMW_BC_AVG_SPD: 48.1
+    BMW_BC_RANGE: 26
+  response: |-
+    660F1100B62D1290078
+    660F12112CA01020104
+- expected_values:
+    BMW_BC_AVG_CONS: 12
+    BMW_BC_AVG_SPD: 48.3
+    BMW_BC_RANGE: 28
+  response: |-
+    660F1100B62D1290078
+    660F12112DEFFFD0118
+- expected_values:
+    BMW_BC_AVG_CONS: 12
+    BMW_BC_AVG_SPD: 48.5
+    BMW_BC_RANGE: 2
+  response: |-
+    660F1100B62D1290078
+    660F12112F200040014
+- expected_values:
+    BMW_BC_AVG_CONS: 12.2
+    BMW_BC_AVG_SPD: 48.1
+    BMW_BC_RANGE: 4
+  response: |-
+    660F1100B62D129007A
+    660F12112CA00C20028

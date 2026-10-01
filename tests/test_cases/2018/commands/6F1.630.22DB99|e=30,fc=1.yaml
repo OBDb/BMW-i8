@@ -1,0 +1,11 @@
+command_id: 6F1.630.22DB99|e=30,fc=1
+test_cases:
+- expected_values:
+    BMW_STEER_TQ: 0.02344
+  response: 630F10662DB99000300
+- expected_values:
+    BMW_STEER_TQ: -1.90625
+  response: 630F10662DB99FF0C00
+- expected_values:
+    BMW_STEER_TQ: -0.05469
+  response: 630F10662DB99FFF900

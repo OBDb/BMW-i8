@@ -1,0 +1,6 @@
+command_id: 6F1.612.224408|e=12,fc=1
+test_cases:
+- expected_values:
+    BMW_EOT_DME: 255
+    BMW_EOT_DME_K: -18.15
+  response: 612F10562440809F6

@@ -1,0 +1,32 @@
+command_id: 6F1.678.22D85C|e=78,fc=1
+test_cases:
+- expected_values:
+    BMW_CABIN_T: 21
+  response: 678F10462D85C15
+- expected_values:
+    BMW_CABIN_T: 22
+  response: 678F10462D85C16
+- expected_values:
+    BMW_CABIN_T: 23
+  response: 678F10462D85C17
+- expected_values:
+    BMW_CABIN_T: 24
+  response: 678F10462D85C18
+- expected_values:
+    BMW_CABIN_T: 25
+  response: 678F10462D85C19
+- expected_values:
+    BMW_CABIN_T: 26
+  response: 678F10462D85C1A
+- expected_values:
+    BMW_CABIN_T: 28
+  response: 678F10462D85C1C
+- expected_values:
+    BMW_CABIN_T: 32
+  response: 678F10462D85C20
+- expected_values:
+    BMW_CABIN_T: 37
+  response: 678F10462D85C25
+- expected_values:
+    BMW_CABIN_T: 39
+  response: 678F10462D85C27
