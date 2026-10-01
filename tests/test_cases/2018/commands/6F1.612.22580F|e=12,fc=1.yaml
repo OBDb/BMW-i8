@@ -7,6 +7,9 @@ test_cases:
     BMW_IAT_DME: 41.25
   response: 612F10462580F77
 - expected_values:
+    BMW_IAT_DME: 45
+  response: 612F10462580F7C
+- expected_values:
     BMW_IAT_DME: 51
   response: 612F10462580F84
 - expected_values:
