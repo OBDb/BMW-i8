@@ -1,0 +1,14 @@
+command_id: 6F1.612.224205|e=12,fc=1
+test_cases:
+- expected_values:
+    BMW_BOOST_P: 100.28125
+  response: 612F1056242053224
+- expected_values:
+    BMW_BOOST_P: 101.39844
+  response: 612F10562420532B3
+- expected_values:
+    BMW_BOOST_P: 102.09375
+  response: 612F105624205330C
+- expected_values:
+    BMW_BOOST_P: 102.64844
+  response: 612F1056242053353

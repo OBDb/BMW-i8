@@ -1,0 +1,17 @@
+command_id: 6F1.612.22580F|e=12,fc=1
+test_cases:
+- expected_values:
+    BMW_IAT_DME: 26.25
+  response: 612F10462580F63
+- expected_values:
+    BMW_IAT_DME: 41.25
+  response: 612F10462580F77
+- expected_values:
+    BMW_IAT_DME: 51
+  response: 612F10462580F84
+- expected_values:
+    BMW_IAT_DME: 55.5
+  response: 612F10462580F8A
+- expected_values:
+    BMW_IAT_DME: 61.5
+  response: 612F10462580F92
