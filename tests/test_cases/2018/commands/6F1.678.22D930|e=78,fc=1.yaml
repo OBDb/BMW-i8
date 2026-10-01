@@ -2,6 +2,15 @@ command_id: 6F1.678.22D930|e=78,fc=1
 test_cases:
 - expected_values:
     BMW_HVAC_AUC: 0
+  response: |-
+    678F10462D92C01
+    678F10462D93100
+    678F10562D8C50000
+    678F10562D91A2B2B
+    678F10462D85C1A
+    678F10462D93000
+- expected_values:
+    BMW_HVAC_AUC: 0
   response: 678F10462D93000
 - expected_values:
     BMW_HVAC_AUC: 1
