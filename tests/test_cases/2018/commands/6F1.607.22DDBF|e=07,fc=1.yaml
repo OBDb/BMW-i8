@@ -42,3 +42,9 @@ test_cases:
   response: |-
     607F1100762DDBF1007
     607F121100EFFFFFFFF
+- expected_values:
+    BMW_HVBAT_CELL_V_MAX: 4.121
+    BMW_HVBAT_CELL_V_MIN: 4.115
+  response: |-
+    607F1100762DDBF1013
+    607F1211019FFFFFFFF
