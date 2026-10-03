@@ -13,5 +13,11 @@ test_cases:
     BMW_BOOST_P: 102.09375
   response: 612F105624205330C
 - expected_values:
+    BMW_BOOST_P: 102.39062
+  response: 612F1056242053332
+- expected_values:
+    BMW_BOOST_P: 102.40625
+  response: 612F1056242053334
+- expected_values:
     BMW_BOOST_P: 102.64844
   response: 612F1056242053353
