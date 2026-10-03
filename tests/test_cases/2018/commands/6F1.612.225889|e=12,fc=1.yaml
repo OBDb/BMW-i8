@@ -7,6 +7,9 @@ test_cases:
     BMW_LAMBDA_6F1_V2: 0.98683
   response: 612F1056258890FCA
 - expected_values:
+    BMW_LAMBDA_6F1_V2: 1.0088
+  response: 612F1056258891024
+- expected_values:
     BMW_LAMBDA_6F1_V2: 1.01418
   response: 612F105625889103A
 - expected_values:
@@ -15,3 +18,9 @@ test_cases:
 - expected_values:
     BMW_LAMBDA_6F1_V2: 1.15871
   response: 612F105625889128A
+- expected_values:
+    BMW_LAMBDA_6F1_V2: 15.11449
+  response: 612F105625889F1D4
+- expected_values:
+    BMW_LAMBDA_6F1_V2: null
+  response: 612F105625889FFFF
