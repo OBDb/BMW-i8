@@ -1,8 +1,8 @@
 command_id: 6F1.678.22D96B|e=78,fc=1
 test_cases:
 - expected_values:
-    BMW_IHX_AAT: 18.5
-  response: 678F10562D96B0075
+    BMW_IHX_AAT: 9.5
+  response: 678F10562D96B0063
 - expected_values:
     BMW_IHX_AAT: 37.5
   response: 678F10562D96B009B
