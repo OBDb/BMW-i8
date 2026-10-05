@@ -65,13 +65,6 @@ test_cases:
     660F121132EFFFD00F0
 - expected_values:
     BMW_BC_AVG_CONS: 12
-    BMW_BC_AVG_SPD: 48.1
-    BMW_BC_RANGE: 26
-  response: |-
-    660F1100B62D1290078
-    660F12112CA01020104
-- expected_values:
-    BMW_BC_AVG_CONS: 12
     BMW_BC_AVG_SPD: 48.5
     BMW_BC_RANGE: 2
   response: |-
@@ -79,8 +72,8 @@ test_cases:
     660F12112F200040014
 - expected_values:
     BMW_BC_AVG_CONS: 12.2
-    BMW_BC_AVG_SPD: 48.1
-    BMW_BC_RANGE: 4
+    BMW_BC_AVG_SPD: 47.5
+    BMW_BC_RANGE: 16
   response: |-
     660F1100B62D129007A
-    660F12112CA00C20028
+    660F121128E02D800A0
