@@ -1,10 +1,10 @@
 command_id: 6F1.629.22DBE5|e=29,fc=1
 test_cases:
 - expected_values:
-    BMW_BRAKE_P: 0.9
+    BMW_BRAKE_P: 0.4
   response: |-
-    629F1100F62DBE50009
-    629F12100000007000A
+    629F1100F62DBE50004
+    629F121000000000006
     629F12200000000FFFF
 - expected_values:
     BMW_BRAKE_P: 10.7
@@ -23,12 +23,6 @@ test_cases:
   response: |-
     629F1100F62DBE500BF
     629F121000000B500C2
-    629F12200000000FFFF
-- expected_values:
-    BMW_BRAKE_P: 31.2
-  response: |-
-    629F1100F62DBE50138
-    629F12100000130013D
     629F12200000000FFFF
 - expected_values:
     BMW_BRAKE_P: -0.7
