@@ -35,3 +35,8 @@ test_cases:
   response: |-
     612F1100762558E0000
     612F1218C4DFFFFFFFF
+- expected_values:
+    BMW_ODO_DME: 35923
+  response: |-
+    612F1100762558E0000
+    612F1218C53FFFFFFFF

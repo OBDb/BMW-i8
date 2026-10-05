@@ -10,6 +10,9 @@ test_cases:
     BMW_LAMBDA_2: 0.979
   response: 612F10562582C0FAA
 - expected_values:
+    BMW_LAMBDA_2: 1.07568
+  response: 612F10562582C1136
+- expected_values:
     BMW_LAMBDA_2: 1.07788
   response: 612F10562582C113F
 - expected_values:
