@@ -4,8 +4,8 @@ test_cases:
     BMW_BARO: 98.51562
   response: 612F1056242016284
 - expected_values:
-    BMW_BARO: 100.875
-  response: 612F10562420164E0
+    BMW_BARO: 99.91797
+  response: 612F10562420163EB
 - expected_values:
     BMW_BARO: 101.07422
   response: 612F1056242016513

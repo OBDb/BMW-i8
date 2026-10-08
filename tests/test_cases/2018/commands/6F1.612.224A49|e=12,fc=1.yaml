@@ -13,6 +13,9 @@ test_cases:
     BMW_IGN_TIMING_1: -14.5
   response: 612F105624A49FF6F
 - expected_values:
+    BMW_IGN_TIMING_1: -13.5
+  response: 612F105624A49FF79
+- expected_values:
     BMW_IGN_TIMING_1: -12.5
   response: 612F105624A49FF83
 - expected_values:
