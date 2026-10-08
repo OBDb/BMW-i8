@@ -6,47 +6,12 @@ test_cases:
     612F1100762558E0000
     612F1218B7FFFFFFFFF
 - expected_values:
-    BMW_ODO_DME: 35723
-  response: |-
-    612F1100762558E0000
-    612F1218B8BFFFFFFFF
-- expected_values:
-    BMW_ODO_DME: 35814
-  response: |-
-    612F1100762558E0000
-    612F1218BE6FFFFFFFF
-- expected_values:
-    BMW_ODO_DME: 35842
-  response: |-
-    612F1100762558E0000
-    612F1218C02FFFFFFFF
-- expected_values:
-    BMW_ODO_DME: 35865
-  response: |-
-    612F1100762558E0000
-    612F1218C19FFFFFFFF
-- expected_values:
-    BMW_ODO_DME: 35893
-  response: |-
-    612F1100762558E0000
-    612F1218C35FFFFFFFF
-- expected_values:
-    BMW_ODO_DME: 35917
-  response: |-
-    612F1100762558E0000
-    612F1218C4DFFFFFFFF
-- expected_values:
-    BMW_ODO_DME: 35923
-  response: |-
-    612F1100762558E0000
-    612F1218C53FFFFFFFF
-- expected_values:
-    BMW_ODO_DME: 35994
-  response: |-
-    612F1100762558E0000
-    612F1218C9AFFFFFFFF
-- expected_values:
     BMW_ODO_DME: 36000
   response: |-
     612F1100762558E0000
     612F1218CA0FFFFFFFF
+- expected_values:
+    BMW_ODO_DME: 36151
+  response: |-
+    612F1100762558E0000
+    612F1218D37FFFFFFFF

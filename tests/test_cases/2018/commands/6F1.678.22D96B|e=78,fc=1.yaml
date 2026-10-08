@@ -4,6 +4,13 @@ test_cases:
     BMW_IHX_AAT: 9.5
   response: 678F10562D96B0063
 - expected_values:
+    BMW_IHX_AAT: 16
+  response: |-
+    678F10562D96B0070
+    678F10462D85C17
+    678F10462D92C00
+    678F10462D93100
+- expected_values:
     BMW_IHX_AAT: 22.5
   response: 678F10562D96B007D
 - expected_values:
