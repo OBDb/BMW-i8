@@ -19,5 +19,8 @@ test_cases:
     BMW_OIL_LEVEL: 74
   response: 612F10462442C4A
 - expected_values:
+    BMW_OIL_LEVEL: 78
+  response: 612F10462442C4E
+- expected_values:
     BMW_OIL_LEVEL: 79
   response: 612F10462442C4F
