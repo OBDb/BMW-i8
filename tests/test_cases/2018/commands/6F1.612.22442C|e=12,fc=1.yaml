@@ -1,6 +1,9 @@
 command_id: 6F1.612.22442C|e=12,fc=1
 test_cases:
 - expected_values:
+    BMW_OIL_LEVEL: 51
+  response: 612F10462442C33
+- expected_values:
     BMW_OIL_LEVEL: 54
   response: 612F10462442C36
 - expected_values:

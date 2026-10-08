@@ -50,6 +50,13 @@ test_cases:
     660F12191F0000091F0
     660F10562D1070000
 - expected_values:
+    BMW_VSS: 58.4
+  response: |-
+    660F1100F62D1110118
+    660F121017C0FE6FFFF
+    660F122457F00D8FFFF
+    660F10562D1070248
+- expected_values:
     BMW_VSS: 12.3
   response: |-
     660F1100F62D1110154

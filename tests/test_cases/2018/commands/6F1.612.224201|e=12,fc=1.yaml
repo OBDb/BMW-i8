@@ -1,8 +1,8 @@
 command_id: 6F1.612.224201|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_BARO: 100.23438
-  response: 612F105624201643C
+    BMW_BARO: 98.51562
+  response: 612F1056242016284
 - expected_values:
     BMW_BARO: 100.875
   response: 612F10562420164E0

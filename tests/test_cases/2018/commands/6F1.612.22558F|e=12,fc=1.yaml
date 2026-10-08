@@ -25,3 +25,8 @@ test_cases:
   response: |-
     612F1100762558F0000
     612F121023CFFFFFFFF
+- expected_values:
+    BMW_ENG_HOURS: 288.5
+  response: |-
+    612F1100762558F0000
+    612F1210241FFFFFFFF
