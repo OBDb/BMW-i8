@@ -19,6 +19,9 @@ test_cases:
     BMW_LOAD: 33
   response: 612F1046258132C
 - expected_values:
+    BMW_LOAD: 42.75
+  response: 612F10462581339
+- expected_values:
     BMW_LOAD: 51.75
   response: 612F10462581345
 - expected_values:
