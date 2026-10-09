@@ -4,6 +4,9 @@ test_cases:
     BMW_MAP: 98.53125
   response: 612F105624A2D3144
 - expected_values:
+    BMW_MAP: 99.38281
+  response: 612F105624A2D31B1
+- expected_values:
     BMW_MAP: 100.24219
   response: 612F105624A2D321F
 - expected_values:
