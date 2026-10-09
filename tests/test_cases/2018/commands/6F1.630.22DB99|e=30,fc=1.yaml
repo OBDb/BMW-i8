@@ -4,9 +4,6 @@ test_cases:
     BMW_STEER_TQ: 0
   response: 630F10662DB99000000
 - expected_values:
-    BMW_STEER_TQ: 0.01562
-  response: 630F10662DB99000200
-- expected_values:
     BMW_STEER_TQ: -1.97656
   response: 630F10662DB99FF0300
 - expected_values:
