@@ -1,12 +1,12 @@
 command_id: 6F1.660.22D129|e=60,fc=1
 test_cases:
 - expected_values:
-    BMW_BC_AVG_CONS: 8.4
-    BMW_BC_AVG_SPD: 53.2
-    BMW_BC_RANGE: 28
+    BMW_BC_AVG_CONS: 8.3
+    BMW_BC_AVG_SPD: 52.5
+    BMW_BC_RANGE: 24
   response: |-
-    660F1100B62D1290054
-    660F12114C800000118
+    660F1100B62D1290053
+    660F1211482FFFD00F0
 - expected_values:
     BMW_BC_AVG_CONS: 8.4
     BMW_BC_AVG_SPD: 53.3
@@ -14,20 +14,6 @@ test_cases:
   response: |-
     660F1100B62D1290054
     660F12114D2000000E6
-- expected_values:
-    BMW_BC_AVG_CONS: 8.4
-    BMW_BC_AVG_SPD: 53.3
-    BMW_BC_RANGE: 24
-  response: |-
-    660F1100B62D1290054
-    660F12114D2000000F0
-- expected_values:
-    BMW_BC_AVG_CONS: 8.5
-    BMW_BC_AVG_SPD: 52.9
-    BMW_BC_RANGE: 41
-  response: |-
-    660F1100B62D1290055
-    660F12114AAFFFD019A
 - expected_values:
     BMW_BC_AVG_CONS: 8.6
     BMW_BC_AVG_SPD: 52.8
