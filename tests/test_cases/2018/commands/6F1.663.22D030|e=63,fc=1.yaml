@@ -21,7 +21,7 @@ test_cases:
     663F121000000000000
     663F12200000000FFFF
 - expected_values:
-    BMW_GPS_SPD: 9
+    BMW_GPS_SPD: 7
     BMW_NBT_WHL_SPD_1: 31
     BMW_NBT_WHL_SPD_2: 31
     BMW_NBT_WHL_SPD_3: 31
@@ -29,7 +29,7 @@ test_cases:
   response: |-
     663F1101162D030001F
     663F121001F001F001F
-    663F122001200090001
+    663F122000F00070002
 - expected_values:
     BMW_GPS_SPD: 45
     BMW_NBT_WHL_SPD_1: 142
