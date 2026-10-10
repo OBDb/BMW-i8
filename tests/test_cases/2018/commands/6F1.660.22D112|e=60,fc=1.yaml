@@ -14,6 +14,11 @@ test_cases:
     I8_AAT: 9.5
   response: 660F10562D1126364
 - expected_values:
+    I8_AAT: 15.5
+  response: |-
+    660F10562D1126F6F
+    660F10562D1126F6F
+- expected_values:
     I8_AAT: 22
   response: 660F10562D1127C7E
 - expected_values:
