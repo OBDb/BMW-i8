@@ -1,11 +1,11 @@
 command_id: 6F1.678.22D85C|e=78,fc=1
 test_cases:
 - expected_values:
-    BMW_CABIN_T: 19
+    I8_CABIN_T: 19
   response: 678F10462D85C13
 - expected_values:
-    BMW_CABIN_T: 23
+    I8_CABIN_T: 23
   response: 678F10462D85C17
 - expected_values:
-    BMW_CABIN_T: 39
+    I8_CABIN_T: 39
   response: 678F10462D85C27

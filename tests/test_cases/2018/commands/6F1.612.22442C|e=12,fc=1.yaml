@@ -1,29 +1,29 @@
 command_id: 6F1.612.22442C|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_OIL_LEVEL: 51
+    I8_OIL_LEVEL: 51
   response: 612F10462442C33
 - expected_values:
-    BMW_OIL_LEVEL: 54
+    I8_OIL_LEVEL: 54
   response: 612F10462442C36
 - expected_values:
-    BMW_OIL_LEVEL: 67
+    I8_OIL_LEVEL: 67
   response: 612F10462442C43
 - expected_values:
-    BMW_OIL_LEVEL: 71
+    I8_OIL_LEVEL: 71
   response: 612F10462442C47
 - expected_values:
-    BMW_OIL_LEVEL: 72
+    I8_OIL_LEVEL: 72
   response: 612F10462442C48
 - expected_values:
-    BMW_OIL_LEVEL: 73
+    I8_OIL_LEVEL: 73
   response: 612F10462442C49
 - expected_values:
-    BMW_OIL_LEVEL: 74
+    I8_OIL_LEVEL: 74
   response: 612F10462442C4A
 - expected_values:
-    BMW_OIL_LEVEL: 78
+    I8_OIL_LEVEL: 78
   response: 612F10462442C4E
 - expected_values:
-    BMW_OIL_LEVEL: 79
+    I8_OIL_LEVEL: 79
   response: 612F10462442C4F

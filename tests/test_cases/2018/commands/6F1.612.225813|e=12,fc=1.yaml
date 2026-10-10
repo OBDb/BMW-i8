@@ -1,32 +1,32 @@
 command_id: 6F1.612.225813|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_LOAD: 1.5
+    I8_LOAD: 1.5
   response: 612F10462581302
 - expected_values:
-    BMW_LOAD: 2.25
+    I8_LOAD: 2.25
   response: 612F10462581303
 - expected_values:
-    BMW_LOAD: 3
+    I8_LOAD: 3
   response: 612F10462581304
 - expected_values:
-    BMW_LOAD: 3.75
+    I8_LOAD: 3.75
   response: 612F10462581305
 - expected_values:
-    BMW_LOAD: 4.5
+    I8_LOAD: 4.5
   response: 612F10462581306
 - expected_values:
-    BMW_LOAD: 33
+    I8_LOAD: 33
   response: 612F1046258132C
 - expected_values:
-    BMW_LOAD: 42.75
+    I8_LOAD: 42.75
   response: 612F10462581339
 - expected_values:
-    BMW_LOAD: 49.5
+    I8_LOAD: 49.5
   response: 612F10462581342
 - expected_values:
-    BMW_LOAD: 51.75
+    I8_LOAD: 51.75
   response: 612F10462581345
 - expected_values:
-    BMW_LOAD: 63
+    I8_LOAD: 63
   response: 612F10462581354

@@ -1,14 +1,14 @@
 command_id: 6F1.607.22DD68|e=07,fc=1
 test_cases:
 - expected_values:
-    BMW_HVBAT_VOLT: 288.68
+    I8_HVBAT_VOLT: 288.68
   response: 607F10562DD6870C4
 - expected_values:
-    BMW_HVBAT_VOLT: 345.59
+    I8_HVBAT_VOLT: 345.59
   response: 607F10562DD6886FF
 - expected_values:
-    BMW_HVBAT_VOLT: 353.28
+    I8_HVBAT_VOLT: 353.28
   response: 607F10562DD688A00
 - expected_values:
-    BMW_HVBAT_VOLT: 396.94
+    I8_HVBAT_VOLT: 396.94
   response: 607F10562DD689B0E
