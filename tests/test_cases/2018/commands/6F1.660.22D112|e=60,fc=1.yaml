@@ -53,6 +53,13 @@ test_cases:
     660F121131000810122
     660F10562D1128687
 - expected_values:
+    BMW_AAT: 19.5
+  response: |-
+    660F1100D62D12A0051
+    660F121148C132E1626
+    660F1220482FFFFFFFF
+    660F10562D1127778
+- expected_values:
     BMW_AAT: 16
   response: |-
     660F1100D62D12A0068
