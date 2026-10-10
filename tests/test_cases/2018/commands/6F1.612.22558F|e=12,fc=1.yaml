@@ -1,47 +1,47 @@
 command_id: 6F1.612.22558F|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_ENG_HOURS: 284
+    I8_ENG_HOURS: 284
   response: |-
     612F1100762558F0000
     612F1210238FFFFFFFF
 - expected_values:
-    BMW_ENG_HOURS: 284.5
+    I8_ENG_HOURS: 284.5
   response: |-
     612F1100762558F0000
     612F1210239FFFFFFFF
 - expected_values:
-    BMW_ENG_HOURS: 285
+    I8_ENG_HOURS: 285
   response: |-
     612F1100762558F0000
     612F121023AFFFFFFFF
 - expected_values:
-    BMW_ENG_HOURS: 285.5
+    I8_ENG_HOURS: 285.5
   response: |-
     612F1100762558F0000
     612F121023BFFFFFFFF
 - expected_values:
-    BMW_ENG_HOURS: 286
+    I8_ENG_HOURS: 286
   response: |-
     612F1100762558F0000
     612F121023CFFFFFFFF
 - expected_values:
-    BMW_ENG_HOURS: 288.5
+    I8_ENG_HOURS: 288.5
   response: |-
     612F1100762558F0000
     612F1210241FFFFFFFF
 - expected_values:
-    BMW_ENG_HOURS: 290
+    I8_ENG_HOURS: 290
   response: |-
     612F1100762558F0000
     612F1210244FFFFFFFF
 - expected_values:
-    BMW_ENG_HOURS: 290.5
+    I8_ENG_HOURS: 290.5
   response: |-
     612F1100762558F0000
     612F1210245FFFFFFFF
 - expected_values:
-    BMW_ENG_HOURS: 291
+    I8_ENG_HOURS: 291
   response: |-
     612F1100762558F0000
     612F1210246FFFFFFFF

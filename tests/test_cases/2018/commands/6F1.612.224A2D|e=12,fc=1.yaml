@@ -1,26 +1,26 @@
 command_id: 6F1.612.224A2D|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_MAP: 98.53125
+    I8_MAP: 98.53125
   response: 612F105624A2D3144
 - expected_values:
-    BMW_MAP: 99.38281
+    I8_MAP: 99.38281
   response: 612F105624A2D31B1
 - expected_values:
-    BMW_MAP: 100.24219
+    I8_MAP: 100.24219
   response: 612F105624A2D321F
 - expected_values:
-    BMW_MAP: 100.66406
+    I8_MAP: 100.66406
   response: 612F105624A2D3255
 - expected_values:
-    BMW_MAP: 101.09375
+    I8_MAP: 101.09375
   response: 612F105624A2D328C
 - expected_values:
-    BMW_MAP: 101.52344
+    I8_MAP: 101.52344
   response: 612F105624A2D32C3
 - expected_values:
-    BMW_MAP: 101.95312
+    I8_MAP: 101.95312
   response: 612F105624A2D32FA
 - expected_values:
-    BMW_MAP: 102.375
+    I8_MAP: 102.375
   response: 612F105624A2D3330

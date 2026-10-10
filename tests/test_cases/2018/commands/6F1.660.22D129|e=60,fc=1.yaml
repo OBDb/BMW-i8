@@ -1,88 +1,88 @@
 command_id: 6F1.660.22D129|e=60,fc=1
 test_cases:
 - expected_values:
-    BMW_BC_AVG_CONS: 8.1
-    BMW_BC_AVG_SPD: 52.5
-    BMW_BC_RANGE: 22
+    I8_BC_AVG_CONS: 8.1
+    I8_BC_AVG_SPD: 52.5
+    I8_BC_RANGE: 22
   response: |-
     660F1100B62D1290051
     660F1211482FFFD00DC
 - expected_values:
-    BMW_BC_AVG_CONS: 8.1
-    BMW_BC_AVG_SPD: 52.6
-    BMW_BC_RANGE: 40
+    I8_BC_AVG_CONS: 8.1
+    I8_BC_AVG_SPD: 52.6
+    I8_BC_RANGE: 40
   response: |-
     660F1100B62D1290051
     660F121148C00510190
 - expected_values:
-    BMW_BC_AVG_CONS: 8.1
-    BMW_BC_AVG_SPD: 52.6
-    BMW_BC_RANGE: 37
+    I8_BC_AVG_CONS: 8.1
+    I8_BC_AVG_SPD: 52.6
+    I8_BC_RANGE: 37
   response: |-
     660F1100B62D1290051
     660F121148C03940172
     660F1100B62D1290051
     660F121148C03940172
 - expected_values:
-    BMW_BC_AVG_CONS: 8.1
-    BMW_BC_AVG_SPD: 52.8
-    BMW_BC_RANGE: 23
+    I8_BC_AVG_CONS: 8.1
+    I8_BC_AVG_SPD: 52.8
+    I8_BC_RANGE: 23
   response: |-
     660F1100B62D1290051
     660F12114A0000000E6
 - expected_values:
-    BMW_BC_AVG_CONS: 8.4
-    BMW_BC_AVG_SPD: 53.3
-    BMW_BC_RANGE: 23
+    I8_BC_AVG_CONS: 8.4
+    I8_BC_AVG_SPD: 53.3
+    I8_BC_RANGE: 23
   response: |-
     660F1100B62D1290054
     660F12114D2000000E6
 - expected_values:
-    BMW_BC_AVG_CONS: 8.8
-    BMW_BC_AVG_SPD: 52.1
-    BMW_BC_RANGE: 27
+    I8_BC_AVG_CONS: 8.8
+    I8_BC_AVG_SPD: 52.1
+    I8_BC_RANGE: 27
   response: |-
     660F1100B62D1290058
     660F121145A002D010E
 - expected_values:
-    BMW_BC_AVG_CONS: 10.7
-    BMW_BC_AVG_SPD: 49.9
-    BMW_BC_RANGE: 26
+    I8_BC_AVG_CONS: 10.7
+    I8_BC_AVG_SPD: 49.9
+    I8_BC_RANGE: 26
   response: |-
     660F1100B62D129006B
     660F121137EFFFD0104
 - expected_values:
-    BMW_BC_AVG_CONS: 11.6
-    BMW_BC_AVG_SPD: 48.6
-    BMW_BC_RANGE: 46
+    I8_BC_AVG_CONS: 11.6
+    I8_BC_AVG_SPD: 48.6
+    I8_BC_RANGE: 46
   response: |-
     660F1100B62D1290074
     660F12112FC004301CC
 - expected_values:
-    BMW_BC_AVG_CONS: 11.7
-    BMW_BC_AVG_SPD: 48.3
-    BMW_BC_RANGE: 26
+    I8_BC_AVG_CONS: 11.7
+    I8_BC_AVG_SPD: 48.3
+    I8_BC_RANGE: 26
   response: |-
     660F1100B62D1290075
     660F12112DE004F0104
 - expected_values:
-    BMW_BC_AVG_CONS: 11.7
-    BMW_BC_AVG_SPD: 49
-    BMW_BC_RANGE: 34
+    I8_BC_AVG_CONS: 11.7
+    I8_BC_AVG_SPD: 49
+    I8_BC_RANGE: 34
   response: |-
     660F1100B62D1290075
     660F121132400000154
 - expected_values:
-    BMW_BC_AVG_CONS: 12
-    BMW_BC_AVG_SPD: 48.5
-    BMW_BC_RANGE: 2
+    I8_BC_AVG_CONS: 12
+    I8_BC_AVG_SPD: 48.5
+    I8_BC_RANGE: 2
   response: |-
     660F1100B62D1290078
     660F12112F200040014
 - expected_values:
-    BMW_BC_AVG_CONS: 12.2
-    BMW_BC_AVG_SPD: 47.5
-    BMW_BC_RANGE: 16
+    I8_BC_AVG_CONS: 12.2
+    I8_BC_AVG_SPD: 47.5
+    I8_BC_RANGE: 16
   response: |-
     660F1100B62D129007A
     660F121128E02D800A0

@@ -1,9 +1,9 @@
 command_id: 6F1.612.22402B|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_12V_A: -1.36
-    BMW_12V_T: 22.5
-    BMW_12V_V: 14.439
+    I8_12V_A: -1.36
+    I8_12V_T: 22.5
+    I8_12V_V: 14.439
   response: |-
     612F1101F62402B00E1
     612F12183DC09B30000
@@ -12,9 +12,9 @@ test_cases:
     612F124000000040000
     612F1250000FFFFFFFF
 - expected_values:
-    BMW_12V_A: -1.52
-    BMW_12V_T: 24
-    BMW_12V_V: 14.314
+    I8_12V_A: -1.52
+    I8_12V_T: 24
+    I8_12V_V: 14.314
   response: |-
     612F1101F62402B00F0
     612F12181E809B10000
@@ -23,9 +23,9 @@ test_cases:
     612F124000000040000
     612F1250000FFFFFFFF
 - expected_values:
-    BMW_12V_A: -0.88
-    BMW_12V_T: 25.5
-    BMW_12V_V: 14.25
+    I8_12V_A: -0.88
+    I8_12V_T: 25.5
+    I8_12V_V: 14.25
   response: |-
     612F1101F62402B00FF
     612F12180E809B90000
@@ -34,9 +34,9 @@ test_cases:
     612F124000000040000
     612F1250000FFFFFFFF
 - expected_values:
-    BMW_12V_A: -2.24
-    BMW_12V_T: 25.5
-    BMW_12V_V: 14.271
+    I8_12V_A: -2.24
+    I8_12V_T: 25.5
+    I8_12V_V: 14.271
   response: |-
     612F1101F62402B00FF
     612F121813C09A80000
@@ -45,9 +45,9 @@ test_cases:
     612F124000000040000
     612F1250000FFFFFFFF
 - expected_values:
-    BMW_12V_A: -0.16
-    BMW_12V_T: 25.5
-    BMW_12V_V: 14.3
+    I8_12V_A: -0.16
+    I8_12V_T: 25.5
+    I8_12V_V: 14.3
   response: |-
     612F1101F62402B00FF
     612F12181B009C20000
@@ -56,9 +56,9 @@ test_cases:
     612F124000000040000
     612F1250000FFFFFFFF
 - expected_values:
-    BMW_12V_A: -1.68
-    BMW_12V_T: 25.5
-    BMW_12V_V: 14.34
+    I8_12V_A: -1.68
+    I8_12V_T: 25.5
+    I8_12V_V: 14.34
   response: |-
     612F1101F62402B00FF
     612F121825009AF0000
@@ -67,9 +67,9 @@ test_cases:
     612F124000000040000
     612F1250000FFFFFFFF
 - expected_values:
-    BMW_12V_A: -0.24
-    BMW_12V_T: 27
-    BMW_12V_V: 14.224
+    I8_12V_A: -0.24
+    I8_12V_T: 27
+    I8_12V_V: 14.224
   response: |-
     612F1101F62402B010E
     612F121808009C10000
@@ -78,9 +78,9 @@ test_cases:
     612F124000000040000
     612F1250000FFFFFFFF
 - expected_values:
-    BMW_12V_A: -0.08
-    BMW_12V_T: 28.5
-    BMW_12V_V: 14.172
+    I8_12V_A: -0.08
+    I8_12V_T: 28.5
+    I8_12V_V: 14.172
   response: |-
     612F1101F62402B011D
     612F1217FB009C30000

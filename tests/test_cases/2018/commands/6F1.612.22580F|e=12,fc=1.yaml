@@ -1,8 +1,8 @@
 command_id: 6F1.612.22580F|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_IAT_DME: 25.5
+    I8_IAT_DME: 25.5
   response: 612F10462580F62
 - expected_values:
-    BMW_IAT_DME: 69
+    I8_IAT_DME: 69
   response: 612F10462580F9C

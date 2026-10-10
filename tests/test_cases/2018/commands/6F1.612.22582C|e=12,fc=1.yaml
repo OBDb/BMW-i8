@@ -1,11 +1,11 @@
 command_id: 6F1.612.22582C|e=12,fc=1
 test_cases:
 - expected_values:
-    BMW_LAMBDA_2: 0
+    I8_LAMBDA_2: 0
   response: 612F10562582C0000
 - expected_values:
-    BMW_LAMBDA_2: 0.979
+    I8_LAMBDA_2: 0.979
   response: 612F10562582C0FAA
 - expected_values:
-    BMW_LAMBDA_2: 2.21997
+    I8_LAMBDA_2: 2.21997
   response: 612F10562582C2385
