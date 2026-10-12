@@ -137,7 +137,7 @@
   ]},
 { "hdr": "6F1", "rax": "612", "eax": "12", "fcm1": true, "cmd": {"22": "4408"}, "freq": 5, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
-    {"id": "I8_EOT_DME", "path": "Engine", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "celsius" }, "name": "Engine oil temperature"}
+    {"id": "I8_EOT_DME", "path": "Engine", "fmt": { "len": 16, "max": 6553.5, "div": 10, "nullmax": 255, "unit": "celsius" }, "name": "Engine oil temperature"}
   ]},
 { "hdr": "6F1", "rax": "612", "eax": "12", "fcm1": true, "cmd": {"22": "442C"}, "freq": 30, "dbgfilter": { "to": 2017, "from": 2019 },
   "signals": [
